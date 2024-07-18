@@ -154,10 +154,6 @@ Build and simulate quantum circuits online with our Interactive Quantum Circuit 
 - Real-time simulation of quantum circuits
 - Visualization of quantum states and operations
 
-#### Code Example
-
-[Code Examples]
-
 ## Contributing
 
 We welcome contributions from the community! If you know of any open-source quantum computing tools or libraries that should be included in this repository, please open an issue or submit a pull request.
