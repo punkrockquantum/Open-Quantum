@@ -146,7 +146,7 @@ Quantum computing is an exciting frontier in technology, promising to solve prob
 
 ### Quantum Circuit Builder
 
-## Coming soon
+- **Coming soon
 
 ## Contributing
 
