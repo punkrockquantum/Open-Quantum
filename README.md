@@ -144,15 +144,9 @@ Quantum computing is an exciting frontier in technology, promising to solve prob
 
 ## Interactive Tools
 
-### Interactive Quantum Circuit Builder
+### Quantum Circuit Builder
 
-Build and simulate quantum circuits online with our Interactive Quantum Circuit Builder. This tool allows you to design quantum circuits visually and run simulations to see the results.
-
-#### Features
-
-- Drag-and-drop interface for building circuits
-- Real-time simulation of quantum circuits
-- Visualization of quantum states and operations
+## Coming soon
 
 ## Contributing
 
