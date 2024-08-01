@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://quantum-computing-resource.com">
-    <img alt="quantum computing logo" src="path_to_logo_image.png">
+    <img alt="quantum computing logo" src="https://avatars.githubusercontent.com/u/160120530?s=200&v=4">
 </a>
 
 <br/>
