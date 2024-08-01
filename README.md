@@ -1,3 +1,25 @@
+<div align="center">
+<a href="https://quantum-computing-resource.com">
+    <img alt="quantum computing logo" src="path_to_logo_image.png">
+</a>
+
+<br/>
+<br/>
+
+<div align="center">
+    <a href="https://quantum-computing-resource.com">Home Page</a> |
+</div>
+</div>
+
+<br/>
+<br/>
+
+<div align="center"><strong>OpenQuantum revolutionises quantum computing by leveraging cutting-edge open-source tools and bringing the most powerful computing power ever seen to market for the benefit of humanity. We are committed to making this important technology more accessible and accelerating science.</strong><br> Together with our industry and government partners, we are catalysing collaboration and driving significant advancements in quantum computing.
+<br />
+<br />
+
+</div>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
