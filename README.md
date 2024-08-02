@@ -29,6 +29,32 @@
 
 </div>
 
+<div align="center">
+  <h2>Top 5 Open Issues</h2>
+  <table>
+    <tr>
+      <td>1.</td>
+      <td><a href="https://github.com/your-repo/quantum-computing-resources/issues/1">Improve documentation for Quantum Simulation tools</a></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td><a href="https://github.com/your-repo/quantum-computing-resources/issues/2">Add more examples for Quantum Machine Learning</a></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td><a href="https://github.com/your-repo/quantum-computing-resources/issues/3">Update list of Quantum Cryptography tools</a></td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td><a href="https://github.com/your-repo/quantum-computing-resources/issues/4">Include more resources for Ion Trap qubits</a></td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td><a href="https://github.com/your-repo/quantum-computing-resources/issues/5">Expand section on Quantum Algorithm Visualizers</a></td>
+    </tr>
+  </table>
+</div>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
