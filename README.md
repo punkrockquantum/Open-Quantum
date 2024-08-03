@@ -210,10 +210,18 @@ Quantum computing is an exciting frontier in technology, promising to solve prob
 We welcome contributions from the community! If you know of any open-source quantum computing tools or libraries that should be included in this repository, please open an issue or submit a pull request.
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Create a new Pull Request.
+2. Create a new branch. 
+```
+git checkout -b feature/YourFeature
+```
+3. Commit your changes.
+```git commit -am 'Add some feature'
+```
+4. Push to the branch.
+```git push origin feature/YourFeature
+```
+6. Create a new Pull Request.
+   
 ## License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
