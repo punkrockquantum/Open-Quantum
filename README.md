@@ -215,10 +215,12 @@ We welcome contributions from the community! If you know of any open-source quan
 git checkout -b feature/YourFeature
 ```
 3. Commit your changes.
-```git commit -am 'Add some feature'
+```
+git commit -am 'Add some feature'
 ```
 4. Push to the branch.
-```git push origin feature/YourFeature
+```
+git push origin feature/YourFeature
 ```
 6. Create a new Pull Request.
    
