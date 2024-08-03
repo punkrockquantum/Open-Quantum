@@ -134,7 +134,6 @@ Quantum computing is an exciting frontier in technology, promising to solve prob
     - **[PyQuil](https://github.com/rigetti/pyquil)**
     - [QICK](https://github.com/openquantumhardware/qick)
     - [https://github.com/qubic/core](QUBIC)
-    - 
 
 ### Neutral Atoms
 
