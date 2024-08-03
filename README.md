@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-    <a href="https://quantum-computing-resource.com">Home Page</a> |
+    <a href="https://openquantum.co.uk">Home Page</a>
 </div>
 </div>
 
