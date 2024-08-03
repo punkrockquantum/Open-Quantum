@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-<div align="center"><strong>OpenQuantum revolutionises quantum computing by leveraging cutting-edge open-source tools and bringing the most powerful computing power ever seen to market for the benefit of humanity. We are committed to making this important technology more accessible and accelerating science.</strong><br> Together with our industry and government partners, we are catalysing collaboration and driving significant advancements in quantum computing.
+<div align="center"><strong>OpenQuantum revolutionises quantum computing by leveraging cutting-edge open-source tools and bringing the most powerful computing power ever seen to market for the benefit of humanity. We are committed to making this important technology more accessible and accelerating science.</strong><br>
 <br />
 <br />
 
