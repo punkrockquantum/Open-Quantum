@@ -80,6 +80,7 @@
 - [License](#license)
 
 ## Introduction
+<img alt="quantum computing logo" src="https://img.freepik.com/free-vector/gradient-quantum-illustration_23-2149247158.jpg?t=st=1722694489~exp=1722698089~hmac=aa5fae96cf05654ac48d95c83e0bfdbb9122c8d841500aade55576237e826318&w=1380">
 
 Quantum computing is an exciting frontier in technology, promising to solve problems that are currently intractable for classical computers. This repository is dedicated to providing a comprehensive list of open-source tools that you can use to explore and develop quantum computing applications.
 
