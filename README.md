@@ -100,7 +100,6 @@ Quantum computing is an exciting frontier in technology, promising to solve prob
 - **[ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ)**: An open-source software framework for quantum computing that allows users to implement their quantum programs in Python using a powerful and intuitive syntax.
 - [NeutroGen](https://github.com/MSRudolph/NeutroGen)
 - [Quokka Quantum](https://www.quokkacomputing.com/colab)
-- 
 
 ### Quantum Algorithms
 
