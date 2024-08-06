@@ -30,27 +30,52 @@
 </div>
 
 <div align="center">
-  <h2>Top 5 Open Issues</h2>
-  <table>
+  <h2>🔥 Top 5 Open Issues 🔥</h2>
+  <table style="border-collapse: separate; border-spacing: 0 10px;">
     <tr>
-      <td>1.</td>
-      <td><a href="https://github.com/your-repo/quantum-computing-resources/issues/1">Improve documentation for Quantum Simulation tools</a></td>
+      <td style="padding-right: 10px; font-weight: bold;">1.</td>
+      <td>
+        <img src="https://img.icons8.com/color/48/000000/document.png" width="24" height="24" style="vertical-align: middle; margin-right: 10px;">
+        <a href="https://github.com/your-repo/quantum-computing-resources/issues/1" style="text-decoration: none; color: #0366d6;">
+          📚 Improve documentation for Quantum Simulation tools
+        </a>
+      </td>
     </tr>
     <tr>
-      <td>2.</td>
-      <td><a href="https://github.com/your-repo/quantum-computing-resources/issues/2">Add more examples for Quantum Machine Learning</a></td>
+      <td style="padding-right: 10px; font-weight: bold;">2.</td>
+      <td>
+        <img src="https://img.icons8.com/color/48/000000/robot.png" width="24" height="24" style="vertical-align: middle; margin-right: 10px;">
+        <a href="https://github.com/your-repo/quantum-computing-resources/issues/2" style="text-decoration: none; color: #0366d6;">
+          🧠 Add more examples for Quantum Machine Learning
+        </a>
+      </td>
     </tr>
     <tr>
-      <td>3.</td>
-      <td><a href="https://github.com/your-repo/quantum-computing-resources/issues/3">Update list of Quantum Cryptography tools</a></td>
+      <td style="padding-right: 10px; font-weight: bold;">3.</td>
+      <td>
+        <img src="https://img.icons8.com/color/48/000000/encryption.png" width="24" height="24" style="vertical-align: middle; margin-right: 10px;">
+        <a href="https://github.com/your-repo/quantum-computing-resources/issues/3" style="text-decoration: none; color: #0366d6;">
+          🔐 Update list of Quantum Cryptography tools
+        </a>
+      </td>
     </tr>
     <tr>
-      <td>4.</td>
-      <td><a href="https://github.com/your-repo/quantum-computing-resources/issues/4">Include more resources for Ion Trap qubits</a></td>
+      <td style="padding-right: 10px; font-weight: bold;">4.</td>
+      <td>
+        <img src="https://img.icons8.com/color/48/000000/atoms.png" width="24" height="24" style="vertical-align: middle; margin-right: 10px;">
+        <a href="https://github.com/your-repo/quantum-computing-resources/issues/4" style="text-decoration: none; color: #0366d6;">
+          ⚛️ Include more resources for Ion Trap qubits
+        </a>
+      </td>
     </tr>
     <tr>
-      <td>5.</td>
-      <td><a href="https://github.com/your-repo/quantum-computing-resources/issues/5">Expand section on Quantum Algorithm Visualizers</a></td>
+      <td style="padding-right: 10px; font-weight: bold;">5.</td>
+      <td>
+        <img src="https://img.icons8.com/color/48/000000/flow-chart.png" width="24" height="24" style="vertical-align: middle; margin-right: 10px;">
+        <a href="https://github.com/your-repo/quantum-computing-resources/issues/5" style="text-decoration: none; color: #0366d6;">
+          📊 Expand section on Quantum Algorithm Visualizers
+        </a>
+      </td>
     </tr>
   </table>
 </div>
