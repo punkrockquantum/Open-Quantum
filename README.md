@@ -1,4 +1,54 @@
-<div align="center">
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background: linear-gradient(to bottom right, #f0fff0, #fffff0);
+  }
+  h1, h2 {
+    color: #2e8b57;
+  }
+  a {
+    color: #228B22;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .header {
+    background: linear-gradient(to right, #2e8b57, #ffd700);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+  }
+  .mission {
+    background-color: rgba(255, 255, 224, 0.7);
+    border-left: 5px solid #ffd700;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 0 10px 10px 0;
+  }
+  .section {
+    background-color: rgba(240, 255, 240, 0.7);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgba(46, 139, 87, 0.1);
+    border-radius: 10px;
+  }
+</style>
+
+<div class="header" align="center">
   <img alt="OpenQuantum logo" src="https://avatars.githubusercontent.com/u/160120530?s=200&v=4" width="150px">
   <h1>OpenQuantum</h1>
   <p><em>Revolutionizing quantum computing with open-source tools</em></p>
@@ -8,148 +58,104 @@
   <a href="#contributing">Contribute</a> •
   <a href="https://github.com/yourusername/your-repo/issues">Issues</a>
 
-  <br>
+  <br><br>
 
-  [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yourusername/your-repo/issues)
-  [![Qiskit](https://img.shields.io/badge/Qiskit-%E2%9C%93-blueviolet.svg?style=flat)](https://qiskit.org/)
-  [![Cirq](https://img.shields.io/badge/Cirq-%E2%9C%93-brightgreen.svg?style=flat)](https://quantumai.google/cirq)
-  [![Q#](https://img.shields.io/badge/Q%23-%E2%9C%93-blue.svg?style=flat)](https://docs.microsoft.com/en-us/quantum/)
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions welcome">
+  <img src="https://img.shields.io/badge/Qiskit-%E2%9C%93-blueviolet.svg?style=flat" alt="Qiskit">
+  <img src="https://img.shields.io/badge/Cirq-%E2%9C%93-brightgreen.svg?style=flat" alt="Cirq">
+  <img src="https://img.shields.io/badge/Q%23-%E2%9C%93-blue.svg?style=flat" alt="Q#">
 </div>
 
-<hr>
-
-<div align="center">
-  <h2>🚀 Mission</h2>
+<div class="mission">
+  <h2>🚀 Our Mission</h2>
   <p>
     OpenQuantum is committed to making quantum computing technology more accessible and accelerating scientific progress. We leverage cutting-edge open-source tools to bring the most powerful computing capabilities to market for the benefit of humanity.
   </p>
 </div>
 
-<hr>
-
-## 📚 Table of Contents
-
-- [Introduction](#introduction)
-- [Tools and Libraries](#tools-and-libraries)
-- [Qubit Types](#qubit-types)
-- [Learning Resources](#learning-resources)
-- [Community](#community)
-- [Contributing](#contributing)
-- [License](#license)
-
-## 🌟 Introduction
-
-<div align="center">
-  <img src="https://img.freepik.com/free-vector/gradient-quantum-illustration_23-2149247158.jpg" width="400px">
+<div class="section">
+  <h2>📚 Table of Contents</h2>
+  <ul>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#tools-and-libraries">Tools and Libraries</a></li>
+    <li><a href="#qubit-types">Qubit Types</a></li>
+    <li><a href="#learning-resources">Learning Resources</a></li>
+    <li><a href="#community">Community</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+  </ul>
 </div>
 
-Quantum computing is an exciting frontier in technology, promising to solve problems that are currently intractable for classical computers. This repository provides a comprehensive list of open-source tools for exploring and developing quantum computing applications.
+<div id="introduction" class="section">
+  <h2>🌟 Introduction</h2>
+  <div align="center">
+    <img src="https://img.freepik.com/free-vector/gradient-quantum-illustration_23-2149247158.jpg" width="400px">
+  </div>
+  <p>
+    Quantum computing is an exciting frontier in technology, promising to solve problems that are currently intractable for classical computers. This repository provides a comprehensive list of open-source tools for exploring and developing quantum computing applications.
+  </p>
+</div>
 
-## 🛠 Tools and Libraries
+<div id="tools-and-libraries" class="section">
+  <h2>🛠 Tools and Libraries</h2>
+  <h3>Quantum Programming Languages</h3>
+  <ul>
+    <li><a href="https://github.com/Qiskit/qiskit"><strong>Qiskit</strong></a>: IBM's open-source framework for quantum computing</li>
+    <li><a href="https://github.com/quantumlib/Cirq"><strong>Cirq</strong></a>: Google's framework for NISQ circuits</li>
+    <li><a href="https://github.com/rigetti/pyquil"><strong>PyQuil</strong></a>: Rigetti's Python library for quantum programming</li>
+    <li><a href="https://github.com/XanaduAI/strawberryfields"><strong>Strawberry Fields</strong></a>: Xanadu's library for photonic quantum computing</li>
+    <li><a href="https://github.com/microsoft/Quantum"><strong>Q#</strong></a>: Microsoft's quantum programming language</li>
+  </ul>
+  <!-- More categories can be added here -->
+</div>
 
-### Quantum Programming Languages
+<div id="qubit-types" class="section">
+  <h2>⚛️ Qubit Types</h2>
+  <ul>
+    <li><strong>Superconducting Qubits</strong>: Used by IBM, Google, Rigetti</li>
+    <li><strong>Neutral Atoms</strong>: Used by OpenQuantum, QuEra, Pasqal</li>
+    <li><strong>Photonics</strong>: Used by Xanadu, PsiQuantum</li>
+    <li><strong>Ion Traps</strong>: Used by IonQ, Honeywell</li>
+    <li><strong>Spin Qubits</strong>: Used by Intel, Silicon Quantum Computing</li>
+  </ul>
+</div>
 
-- [**Qiskit**](https://github.com/Qiskit/qiskit): IBM's open-source framework for quantum computing
-- [**Cirq**](https://github.com/quantumlib/Cirq): Google's framework for NISQ circuits
-- [**PyQuil**](https://github.com/rigetti/pyquil): Rigetti's Python library for quantum programming
-- [**Strawberry Fields**](https://github.com/XanaduAI/strawberryfields): Xanadu's library for photonic quantum computing
-- [**Q#**](https://github.com/microsoft/Quantum): Microsoft's quantum programming language
+<div id="learning-resources" class="section">
+  <h2>📖 Learning Resources</h2>
+  <ul>
+    <li><a href="https://qiskit.org/textbook/preface.html"><strong>Qiskit Textbook</strong></a>: Comprehensive online resource</li>
+    <li><a href="https://docs.microsoft.com/en-us/learn/paths/quantum-computing/"><strong>Microsoft Quantum Learning</strong></a></li>
+    <li><a href="https://www.coursera.org/courses?query=quantum%20computing"><strong>Quantum Computing Courses on Coursera</strong></a></li>
+    <li><a href="https://arxiv.org/archive/quant-ph"><strong>arXiv Quantum Physics</strong></a>: Research paper repository</li>
+  </ul>
+</div>
 
-### Quantum Simulation
+<div id="community" class="section">
+  <h2>🌐 Community</h2>
+  <ul>
+    <li><a href="https://quantumcomputing.stackexchange.com/">Quantum Computing Stack Exchange</a></li>
+    <li><a href="https://quantum-computing.ibm.com/community">IBM Quantum Community</a></li>
+    <li><a href="https://qosf.org/">Quantum Open Source Foundation</a></li>
+  </ul>
+</div>
 
-- [**QuTiP**](https://github.com/qutip/qutip): Quantum Toolbox in Python
-- [**ProjectQ**](https://github.com/ProjectQ-Framework/ProjectQ): ETH Zurich's open-source software framework
-- [NeutroGen](https://github.com/MSRudolph/NeutroGen)
-- [Quokka Quantum](https://www.quokkacomputing.com/colab)
+<div id="contributing" class="section">
+  <h2>🤝 Contributing</h2>
+  <p>We welcome contributions! Here's how you can help:</p>
+  <ol>
+    <li>Fork the repository</li>
+    <li>Create your feature branch (<code>git checkout -b feature/AmazingFeature</code>)</li>
+    <li>Commit your changes (<code>git commit -m 'Add some AmazingFeature'</code>)</li>
+    <li>Push to the branch (<code>git push origin feature/AmazingFeature</code>)</li>
+    <li>Open a Pull Request</li>
+  </ol>
+</div>
 
-<details>
-  <summary><strong>Show more categories...</strong></summary>
+<div id="license" class="section">
+  <h2>📄 License</h2>
+  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+</div>
 
-  ### Quantum Algorithms
-  
-  - [**Forest Benchmarking**](https://github.com/rigetti/forest-benchmarking): Performance assessment for quantum processors
-  - [**Qiskit Aqua**](https://github.com/Qiskit/aqua): Extensible library of quantum algorithms
-
-  ### Quantum Machine Learning
-  
-  - [**PennyLane**](https://github.com/PennyLaneAI/pennylane): Cross-platform library for quantum ML
-  - [**TensorFlow Quantum**](https://github.com/tensorflow/quantum): Library for hybrid quantum-classical ML
-
-  ### Quantum Cryptography
-  
-  - [**OpenQKD**](https://github.com/openqkd): Tools for quantum key distribution
-
-  ### Development Environments
-  
-  - [**IBM Quantum Experience**](https://quantum-computing.ibm.com/)
-  - [**Microsoft Quantum Development Kit (QDK)**](https://github.com/microsoft/Quantum)
-  - [**Amazon Braket**](https://aws.amazon.com/braket/)
-  - [**Google Quantum AI**](https://quantumai.google/)
-
-</details>
-
-## ⚛️ Qubit Types
-
-- **Superconducting Qubits**: Used by IBM, Google, Rigetti
-- **Neutral Atoms**: Used by OpenQuantum, QuEra, Pasqal
-- **Photonics**: Used by Xanadu, PsiQuantum
-- **Ion Traps**: Used by IonQ, Honeywell
-- **Spin Qubits**: Used by Intel, Silicon Quantum Computing
-
-<details>
-  <summary><strong>Learn more about qubit types...</strong></summary>
-
-  ### Superconducting Qubits
-  
-  Operate at cryogenic temperatures, based on superconducting circuits. Widely used and mature technology.
-
-  ### Neutral Atoms
-  
-  Use individual atoms trapped and manipulated with optical tweezers and laser beams.
-
-  ### Photonics
-  
-  Utilize light particles (photons) to represent quantum information. Can operate at room temperature.
-
-  ### Ion Traps
-  
-  Use ions confined and manipulated by electromagnetic fields. Offer high fidelity and long coherence times.
-
-  ### Spin Qubits
-  
-  Leverage the spin of electrons or nuclei in semiconductor materials. Promise scalability with existing tech.
-
-</details>
-
-## 📖 Learning Resources
-
-- [**Qiskit Textbook**](https://qiskit.org/textbook/preface.html): Comprehensive online resource
-- [**Microsoft Quantum Learning**](https://docs.microsoft.com/en-us/learn/paths/quantum-computing/)
-- [**Quantum Computing Courses on Coursera**](https://www.coursera.org/courses?query=quantum%20computing)
-- [**arXiv Quantum Physics**](https://arxiv.org/archive/quant-ph): Research paper repository
-
-## 🌐 Community
-
-- [Quantum Computing Stack Exchange](https://quantumcomputing.stackexchange.com/)
-- [IBM Quantum Community](https://quantum-computing.ibm.com/community)
-- [Quantum Open Source Foundation](https://qosf.org/)
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-<hr>
-
-<div align="center">
+<div class="footer">
   <i>Built with ❤️ by the quantum computing community</i>
 </div>
