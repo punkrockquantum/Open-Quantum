@@ -29,17 +29,15 @@
 
 ## 📚 Table of Contents
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Tools and Libraries](#tools-and-libraries)
+- [Introduction](#-introduction)
+- [Tools and Libraries](#-tools-and-libraries)
     - [Quantum Programming Languages](#quantum-programming-languages)
     - [Quantum Simulation](#quantum-simulation)
     - [Quantum Algorithms](#quantum-algorithms)
     - [Quantum Machine Learning](#quantum-machine-learning)
     - [Quantum Cryptography](#quantum-cryptography)
     - [Development Environments](#development-environments)
-- [Qubit Types and Tools](#qubit-types-and-tools)
+- [Qubit Types and Tools](#️-qubit-types-and-tools)
     - [Superconducting Qubits](#superconducting-qubits)
     - [Neutral Atoms](#neutral-atoms)
     - [Photonics](#photonics)
@@ -47,11 +45,8 @@
     - [Spin Qubits](#spin-qubits)
 - [Reference Material](#reference-material)
 - [Community and Learning](#community-and-learning)
-- [Interactive Tools](#interactive-tools)
-    - [Interactive Quantum Circuit Builder](#interactive-quantum-circuit-builder)
-    - [Quantum Algorithm Visualizer](#quantum-algorithm-visualizer)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🌟 Introduction
 
