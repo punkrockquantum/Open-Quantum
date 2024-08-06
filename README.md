@@ -44,7 +44,6 @@
     <tr>
       <td style="padding-right: 10px; font-weight: bold;">2.</td>
       <td>
-        <img src="https://img.icons8.com/color/48/000000/robot.png" width="24" height="24" style="vertical-align: middle; margin-right: 10px;">
         <a href="https://github.com/your-repo/quantum-computing-resources/issues/2" style="text-decoration: none; color: #0366d6;">
           🧠 Add more examples for Quantum Machine Learning
         </a>
@@ -53,7 +52,6 @@
     <tr>
       <td style="padding-right: 10px; font-weight: bold;">3.</td>
       <td>
-        <img src="https://img.icons8.com/color/48/000000/encryption.png" width="24" height="24" style="vertical-align: middle; margin-right: 10px;">
         <a href="https://github.com/your-repo/quantum-computing-resources/issues/3" style="text-decoration: none; color: #0366d6;">
           🔐 Update list of Quantum Cryptography tools
         </a>
@@ -62,7 +60,6 @@
     <tr>
       <td style="padding-right: 10px; font-weight: bold;">4.</td>
       <td>
-        <img src="https://img.icons8.com/color/48/000000/atoms.png" width="24" height="24" style="vertical-align: middle; margin-right: 10px;">
         <a href="https://github.com/your-repo/quantum-computing-resources/issues/4" style="text-decoration: none; color: #0366d6;">
           ⚛️ Include more resources for Ion Trap qubits
         </a>
@@ -71,7 +68,6 @@
     <tr>
       <td style="padding-right: 10px; font-weight: bold;">5.</td>
       <td>
-        <img src="https://img.icons8.com/color/48/000000/flow-chart.png" width="24" height="24" style="vertical-align: middle; margin-right: 10px;">
         <a href="https://github.com/your-repo/quantum-computing-resources/issues/5" style="text-decoration: none; color: #0366d6;">
           📊 Expand section on Quantum Algorithm Visualizers
         </a>
