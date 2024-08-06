@@ -52,6 +52,8 @@
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
+<br>
+
 ## 🌟 Introduction
 
 <div align="center">
