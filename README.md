@@ -116,88 +116,98 @@ Quantum computing is an exciting frontier in technology, promising to solve prob
 ## 🛠 Tools and Libraries
 
 ### Quantum Programming Languages
-
-- [**Qiskit**](https://github.com/Qiskit/qiskit): An open-source quantum computing software development framework for working with noisy quantum computers at the level of pulses, circuits, and application modules.
-- [**Cirq**](https://github.com/quantumlib/Cirq): A Google framework for creating, editing, and invoking noisy intermediate-scale quantum (NISQ) circuits.
-- [**PyQuil**](https://github.com/rigetti/pyquil): A Python library for quantum programming using Quil (Quantum Instruction Language).
-- [**Strawberry Fields**](https://github.com/XanaduAI/strawberryfields): A full-stack Python library for designing, simulating, and optimizing continuous-variable quantum optical circuits.
-- [**Q#**](https://github.com/microsoft/Quantum): Microsoft's quantum programming language integrated with the Quantum Development Kit (QDK).
+| **Tool**                                       | **Description**                                   |
+| ---------------------------------------------- | ------------------------------------------------- |
+| [**Qiskit**](https://github.com/Qiskit/qiskit) | An open-source quantum computing software development framework for working with noisy quantum computers at the level of pulses, circuits, and application modules. |
+| [**Cirq**](https://github.com/quantumlib/Cirq) | A Google framework for creating, editing, and invoking noisy intermediate-scale quantum (NISQ) circuits. |
+| [**PyQuil**](https://github.com/rigetti/pyquil) | A Python library for quantum programming using Quil (Quantum Instruction Language). |
+| [**Strawberry Fields**](https://github.com/XanaduAI/strawberryfields) | A full-stack Python library for designing, simulating, and optimizing continuous-variable quantum optical circuits. |
+| [**Q#**](https://github.com/microsoft/Quantum) | Microsoft's quantum programming language integrated with the Quantum Development Kit (QDK). |
 
 ### Quantum Simulation
-
-- [**QuTiP**](https://github.com/qutip/qutip): Quantum Toolbox in Python, a framework for simulating the dynamics of open quantum systems.
-- [**ProjectQ**](https://github.com/ProjectQ-Framework/ProjectQ): An open-source software framework for quantum computing that allows users to implement their quantum programs in Python using a powerful and intuitive syntax.
-- [NeutroGen](https://github.com/MSRudolph/NeutroGen)
-- [Quokka Quantum](https://www.quokkacomputing.com/colab)
+| **Tool**                                        | **Description**                                   |
+|-------------------------------------------------|---------------------------------------------------|
+| [**QuTiP**](https://github.com/qutip/qutip)     | Quantum Toolbox in Python, a framework for simulating the dynamics of open quantum systems. |
+| [**ProjectQ**](https://github.com/ProjectQ-Framework/ProjectQ) | An open-source software framework for quantum computing that allows users to implement their quantum programs in Python using a powerful and intuitive syntax. |
+| [**NeutroGen**](https://github.com/MSRudolph/NeutroGen) | An open-source library for generating and simulating neutral atom quantum computing experiments. |
+| [**Quokka Quantum**](https://www.quokkacomputing.com/colab) | A quantum computing platform that provides tools and resources for developing and simulating quantum algorithms and applications, accessible through their web interface and collaboration platform. |
 
 <details>
   <summary><strong>Show more categories...</strong></summary>
 
   ### Quantum Algorithms
-  
-  - [**Forest Benchmarking**](https://github.com/rigetti/forest-benchmarking): A library for assessing and analyzing the performance of quantum processors.
-  - [**Qiskit Aqua**](https://github.com/Qiskit/aqua): An extensible library of quantum computing algorithms.
+| **Tool**                                         | **Description**                                  |
+|--------------------------------------------------|-------------------------------------------------- |
+| [**Forest Benchmarking**](https://github.com/rigetti/forest-benchmarking) | A library for assessing and analyzing the performance of quantum processors. |
+| [**Qiskit Aqua**](https://github.com/Qiskit/aqua) | An extensible library of quantum computing algorithms. |
 
   ### Quantum Machine Learning
-  
-  - [**PennyLane**](https://github.com/PennyLaneAI/pennylane): A cross-platform Python library for differentiable programming of quantum computers.
-  - [**TensorFlow Quantum**](https://github.com/tensorflow/quantum): An open-source library for hybrid quantum-classical machine learning.
+| **Tool**                                         | **Description**                                  |
+|--------------------------------------------------|--------------------------------------------------|
+| [**PennyLane**](https://github.com/PennyLaneAI/pennylane)  | A cross-platform Python library for differentiable programming of quantum computers. |
+| [**TensorFlow Quantum**](https://github.com/tensorflow/quantum) | An open-source library for hybrid quantum-classical machine learning. |
 
   ### Quantum Cryptography
-  
-  - [**OpenQKD**](https://github.com/openqkd): Tools and libraries for quantum key distribution and quantum cryptography.
+| **Tool**                                          | **Description**                                  |
+|---------------------------------------------------|--------------------------------------------------|
+| [**OpenQKD**](https://github.com/openqkd)         | Tools and libraries for quantum key distribution and quantum cryptography. |
 
   ### Development Environments
-  
-  - [**IBM Quantum Experience**](https://quantum-computing.ibm.com/): Access IBM's quantum processors and simulators.
-  - [**Microsoft Quantum Development Kit (QDK)](https://github.com/microsoft/Quantum): A set of enterprise-grade tools to develop quantum computing applications in the Q# programming language.
-  - [**Amazon Braket**](https://aws.amazon.com/braket/): A fully managed service that provides a development environment to design, test, and run quantum algorithms.
-  - [**Google Quantum AI**](https://quantumai.google/): Provides access to Google's quantum processors and development tools.
+| **Environment**                                    | **Description**                                  |
+|----------------------------------------------------|--------------------------------------------------|
+| [**IBM Quantum Experience**](https://quantum-computing.ibm.com/) | Access IBM's quantum processors and simulators. |
+| [**Microsoft Quantum Development Kit (QDK)**](https://github.com/microsoft/Quantum) | A set of enterprise-grade tools to develop quantum computing applications in the Q# programming language. |
+| [**Amazon Braket**](https://aws.amazon.com/braket/) | A fully managed service that provides a development environment to design, test, and run quantum algorithms. |
+| [**Google Quantum AI**](https://quantumai.google/)  | Provides access to Google's quantum processors and development tools. |
 
 </details>
 
 ## ⚛️ Qubit Types and Tools
 
 ### Superconducting Qubits
+Superconducting qubits are based on superconducting circuits that operate at cryogenic temperatures. These are among the most mature and widely used qubits.
 
-- **Description**: Superconducting qubits are based on superconducting circuits that operate at cryogenic temperatures. These are among the most mature and widely used qubits.
-- **Hardware Providers**: IBM, Google, Rigetti Computing
-- **Software Tools**:
-    - [**Qiskit**](https://github.com/Qiskit/qiskit)
-    - [**Cirq**](https://github.com/quantumlib/Cirq)
-    - [**PyQuil**](https://github.com/rigetti/pyquil)
-    - [QICK](https://github.com/openquantumhardware/qick)
-    - [QUBIC](https://github.com/qubic/core)
+**Hardware Providers:** IBM, Google, Rigetti Computing
+
+**Software Tools:**
+- [Qiskit](https://github.com/Qiskit/qiskit)
+- [Cirq](https://github.com/quantumlib/Cirq)
+- [PyQuil](https://github.com/rigetti/pyquil)
+- [QICK](https://github.com/openquantumhardware/qick)
+- [QUBIC](https://github.com/qubic/core) 
 
 ### Neutral Atoms
+Neutral atom qubits use individual atoms trapped and manipulated using optical tweezers and laser beams.
 
-- **Description**: Neutral atom qubits use individual atoms trapped and manipulated using optical tweezers and laser beams.
-- **Hardware Providers**: OpenQuantum, QuEra Computing, Pasqal
-- **Software Tools**:
-    - [**Artiq**](https://github.com/m-labs/artiq): An open-source control system for quantum information experiments, particularly with trapped ions and neutral atoms.
-    - [**Sinara**](https://github.com/sinara-hw): Hardware design files for quantum computing experiments with neutral atoms.
+**Hardware Providers:** OpenQuantum, QuEra Computing, Pasqal
+
+**Software Tools:**
+- [Artiq](https://github.com/m-labs/artiq): An open-source control system for quantum information experiments, particularly with trapped ions and neutral atom
+- [Sinara](https://github.com/sinara-hw): Hardware design files for quantum computing experiments with neutral atoms
 
 ### Photonics
+Photonic qubits use light particles (photons) to represent and manipulate quantum information. They can operate at room temperature and have advantages in terms of communication. 
 
-- **Description**: Photonic qubits use light particles (photons) to represent and manipulate quantum information. They can operate at room temperature and have advantages in terms of communication.
-- **Hardware Providers**: Xanadu, PsiQuantum
-- **Software Tools**:
-    - [**Strawberry Fields**](https://github.com/XanaduAI/strawberryfields): A full-stack Python library for designing, simulating, and optimizing continuous-variable quantum optical circuits.
+**Hardware Providers:** Xanadu, PsiQuantum
+
+**Software Tools:**
+- [Strawberry Fields](https://github.com/XanaduAI/strawberryfields): A full-stack Python library for designing, simulating, and optimizing continuous-variable quantum optical circuits
 
 ### Ion Traps
+Ion trap qubits use ions confined and manipulated using electromagnetic fields. They offer high fidelity and long coherence times.
 
-- **Description**: Ion trap qubits use ions confined and manipulated using electromagnetic fields. They offer high fidelity and long coherence times.
-- **Hardware Providers**: IonQ, Honeywell Quantum Solutions
-- **Software Tools**:
-    - [**PyQuil**](https://github.com/rigetti/pyquil): Supports quantum programming for various hardware backends, including ion traps.
+**Hardware Providers:** IonQ, Honeywell Quantum Solutions
+
+**Software Tools:**
+- [PyQuil](https://github.com/rigetti/pyquil): Supports quantum programming for various hardware backends, including ion traps
 
 ### Spin Qubits
+Spin qubits use the spin of electrons or nuclei in semiconductor materials to represent quantum information. They promise scalability due to compatibility with existing semiconductor technology. 
 
-- **Description**: Spin qubits use the spin of electrons or nuclei in semiconductor materials to represent quantum information. They promise scalability due to compatibility with existing semiconductor technology.
-- **Hardware Providers**: Intel, Silicon Quantum Computing
-- **Software Tools**:
-    - [**Qiskit**](https://github.com/Qiskit/qiskit)
-    - [**Microsoft Quantum Development Kit (QDK)](https://github.com/microsoft/Quantum): Supports spin qubit research through simulation tools.
+**Hardware Providers:** Intel, Silicon Quantum Computing
+**Software Tools:** 
+- [Qiskit](https://github.com/Qiskit/qiskit)
+- [Microsoft Quantum Development Kit (QDK)](https://github.com/microsoft/Quantum): Supports spin qubit research through simulation tools
 
 ## 📖 Reference Material
 
