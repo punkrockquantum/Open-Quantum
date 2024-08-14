@@ -10,7 +10,7 @@
 
   <br>
 
-  [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yourusername/your-repo/issues)
+  [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]([https://www.openquantum.co.uk/](https://openquantum.co.uk/contact-us)
   [![Qiskit](https://img.shields.io/badge/Qiskit-%E2%9C%93-blueviolet.svg?style=flat)](https://qiskit.org/)
   [![Cirq](https://img.shields.io/badge/Cirq-%E2%9C%93-brightgreen.svg?style=flat)](https://quantumai.google/cirq)
   [![Q#](https://img.shields.io/badge/Q%23-%E2%9C%93-blue.svg?style=flat)](https://docs.microsoft.com/en-us/quantum/)
