@@ -108,6 +108,7 @@ Quantum computing is an exciting frontier in technology, promising to solve prob
 | [**Microsoft Quantum Development Kit (QDK)**](https://github.com/microsoft/Quantum) | A set of enterprise-grade tools to develop quantum computing applications in the Q# programming language. |
 | [**Amazon Braket**](https://aws.amazon.com/braket/) | A fully managed service that provides a development environment to design, test, and run quantum algorithms. |
 | [**Google Quantum AI**](https://quantumai.google/)  | Provides access to Google's quantum processors and development tools. |
+| [**QUALTRAN**](https://github.com/quantumlib/Qualtran) | QUALTRAN or "Quantum Algorithms Translator" is a set of abstractions for representing quyantum programs and a library of quantum algorithms expressed in that language to support quantum algorithms research. |
 
 </details>
 
